@@ -1,0 +1,4 @@
+Juan Perez,MEC,1000
+María Eugenia González,ADV,2000
+Hugo Estrada,TIS,3000
+Miguel Mendoza Hernández,TIS,5000
